@@ -1,4 +1,4 @@
-My Awesome Book
+500k.lan
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+500k.lan is my homelab, this document will cover the infrastructure.
