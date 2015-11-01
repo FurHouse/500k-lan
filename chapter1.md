@@ -1,3 +1,12 @@
-# First Chapter
+# TL;DR
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+A short summary of:
+
+ * The homelab
+ * The toolbox
+ * Tips and tricks
+ * Got git?
+
+Ofcourse, every part is described in detail as well, start reading it over here: 
+
+Follow the tutorial for some hands-on experience.
